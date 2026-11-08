@@ -1,12 +1,14 @@
 # Ramp and Hold Privacy Policy
 
-Effective date: 2026-10-01
+Effective date: 2026-11-08
 
-Ramp and Hold does not collect any data.
+Ramp and Hold has no account and never asks for your name, email or other personal details. The app sends data to one company, RevenueCat, which checks and restores Pro: an anonymous app-user id and basic device details every time the app opens, and your purchase history if you buy or restore Pro.
 
-- Your records stay on your device, in plain text files that you control. They are never uploaded by the app.
-- There is no account, no analytics, no advertising and no AI service.
-- The only network activity is the optional Pro purchase, which is handled by Apple and by RevenueCat. To unlock Pro, RevenueCat receives an anonymous app-user id and your Apple purchase receipts; nothing else. See Apple's and RevenueCat's own privacy policies for how they handle that data.
-- To delete your data, delete the records in the Files app or delete the app.
+- Your firings stay on your device, in plain JSON files that you control (one per firing). The app never uploads them. They leave your device only when you export or share them yourself.
+- There is no account, no usage analytics, no advertising, no tracking and no AI service. The app never connects to a kiln.
+- Pro purchases are handled by Apple and by RevenueCat (our purchase-validation provider). When the app opens, it sends RevenueCat an anonymous app-user id, with the device model, iOS and app versions, language, App Store country and Apple's per-developer device id (not the advertising id), so RevenueCat can say whether Pro is unlocked. If you buy or restore Pro, RevenueCat also receives your Apple purchase receipts and keeps that purchase history to validate and restore your purchase and to show us sales totals. It is not linked to your name or email and is not used for tracking. See Apple's and RevenueCat's own privacy policies for how they handle that data.
+- To delete your firings, delete them in the Files app or delete the app. Deleting the app does not delete RevenueCat's record of your purchases; write to us at the address below with the order ID from your Apple receipt email, and we will have it deleted.
+- Children: the app has no account and asks no one, including children, for personal information. The only data it sends is the RevenueCat data described above.
+- Changes to this policy are posted on this page with a new effective date.
 
 Questions: SUPPORT_EMAIL
